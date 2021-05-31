@@ -1,1 +1,5 @@
-# nursery-supply-co
+# Nursery Supply Co.
+## By Anastaia Karolik
+### Technologies:
+- HTML
+- CSS
